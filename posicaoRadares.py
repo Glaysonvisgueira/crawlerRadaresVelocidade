@@ -13,7 +13,7 @@ page = requests.get(url)
 soup = BeautifulSoup(page.text, 'html.parser')
 
 buscarLink = soup.find_all(id='core')        #Buscando a div com a class: core
-links = buscarLink[0].find_all('h4')         #Buscando dentro da div com a classe core todos os elementos com a tag: h4  
+links = buscarLink[0].find_all('h4')         #Buscando dentro da div com a classe core, todos os elementos com a tag: h4  
 
 radaresFixos = links[0].find('a')
 radaresEstaticos =  links[1].find('a')
