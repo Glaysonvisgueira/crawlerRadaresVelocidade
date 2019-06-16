@@ -6,7 +6,4 @@ Posicionamento dos radares de velocidade na cidade de Teresina PI.
 Dados coletados no site da prefeitura: https://pmt.pi.gov.br
 
 Bibliotecas utilizadas:
-
-Crawler:  beautifulsoup4
-
-Lib interna para abrir o link direto no navegador padrão da máquina: webbrowser
+beautifulsoup4 e webbrowser
