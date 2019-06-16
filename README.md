@@ -1,4 +1,4 @@
-# Posição de radares de velocidade na cidade de Teresina PI utilizando BeautifulSoup4
+# Script que coleta o link dos arquivos PDFs que contém a posição dos radares de velocidade na cidade de Teresina PI utilizando BeautifulSoup4
 Estudo de crawler para coleta de dados em página HTML.
 
 Posicionamento dos radares de velocidade na cidade de Teresina PI.
